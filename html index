@@ -1,0 +1,37 @@
+<! DOCTYPE html>
+<html lang = "en">
+  <head>
+    <meta charset = "UTF -8" />
+    <mate name = "viewpoint " center = "width = device- width, initial - scale = 1.0" />
+    <meta http - equiv = "x - UA - compatible" content = "ie = edge" />
+    <! DOCTYPE html>
+    <html lang = "en">
+      <head>
+        <meta charset = "UTF -8" />
+        <mate name = "viewpoint " center = "width = device- width, initial - scale = 1.0" />
+        <meta http - equiv = "x - UA - compatible" content = "ie = edge" />
+        <title> Shecodes </title>
+        <style>
+          h1{
+            color:purple;
+            font-size:46px
+              text-align: center;
+            background:green;
+          }
+          
+          p{
+            text-align:center;
+            text-transform:uppercase;
+            font-size:italic;
+          }
+          </style>
+        </head>
+      <body>
+        <h1>
+          Shecodes
+          </h1>
+        <p>
+          coding workshop 
+        </p>
+      </body>
+          
